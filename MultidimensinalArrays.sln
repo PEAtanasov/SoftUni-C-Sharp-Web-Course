@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{4813D05C-F9C0-48CA-BE60-4B374ACB9E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{4813D05C-F9C0-48CA-BE60-4B374ACB9E8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrixColumn", "SumMatrixColumn\SumMatrixColumn.csproj", "{9D87A777-265E-446C-A05D-6D9B8A64C4DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMatrixColumn", "SumMatrixColumn\SumMatrixColumn.csproj", "{9D87A777-265E-446C-A05D-6D9B8A64C4DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryDiagonal", "PrimaryDiagonal\PrimaryDiagonal.csproj", "{EF9728C0-E795-4B1B-AC17-3810BC06F873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimaryDiagonal", "PrimaryDiagonal\PrimaryDiagonal.csproj", "{EF9728C0-E795-4B1B-AC17-3810BC06F873}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolInMatrix", "SymbolInMatrix\SymbolInMatrix.csproj", "{963E2B6D-729F-4BC7-A3A4-9A3F1955463A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymbolInMatrix", "SymbolInMatrix\SymbolInMatrix.csproj", "{963E2B6D-729F-4BC7-A3A4-9A3F1955463A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareWithMaximulSum", "SquareWithMaximulSum\SquareWithMaximulSum.csproj", "{BB9AAB42-219A-4409-A39D-3127391FFE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{963E2B6D-729F-4BC7-A3A4-9A3F1955463A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963E2B6D-729F-4BC7-A3A4-9A3F1955463A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963E2B6D-729F-4BC7-A3A4-9A3F1955463A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9AAB42-219A-4409-A39D-3127391FFE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9AAB42-219A-4409-A39D-3127391FFE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9AAB42-219A-4409-A39D-3127391FFE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9AAB42-219A-4409-A39D-3127391FFE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
